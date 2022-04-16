@@ -1,5 +1,6 @@
 # GARCH-in-Bollinger-s-Band-strategy
 *Project was made with Katarzyna Hasal as a final part of Machine Learning course. Every line of code is an effect of this team work.*
+
 Short revision of the GARCH model  and its potential use in Bollinger's Band strategy.
 
 ##I. Quick summary
